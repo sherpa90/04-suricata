@@ -1,0 +1,36 @@
+.micolor{
+    background-color: #e83e8c;
+}
+
+.prod{
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0px;
+    font-size: 60px;
+    color: #707070;
+    opacity: 1;
+}
+
+.nav-custom{
+    background-color: #e83e8c;
+}
+.cheap-width{
+    width: 80%;
+}
+.titulo{
+    font-size: 60px;
+    color: #707070;
+}
+.opciones-pago{
+    background-color: #17A2B8;
+    height: 170px;
+}
+.texto{
+    font-size: 40px;
+}
+.tarjetas{
+    font-size: 60px;
+}
+.footer-final{
+    background-color: #E83E8C;
+    height: 184px;
+}
